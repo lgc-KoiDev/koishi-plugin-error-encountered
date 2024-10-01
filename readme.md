@@ -15,16 +15,16 @@
 _✨ 发生未知错误 ✨_
 
 <a href="./LICENSE">
-  <img src="https://img.shields.io/github/license/lgc-KoiDev/koishi-plugin-template.svg" alt="license">
+  <img src="https://img.shields.io/github/license/lgc-KoiDev/koishi-plugin-error-encountered.svg" alt="license">
 </a>
-<a href="https://www.npmjs.com/package/koishi-plugin-template">
-  <img src="https://img.shields.io/npm/v/koishi-plugin-template" alt="npm">
+<a href="https://www.npmjs.com/package/koishi-plugin-error-encountered">
+  <img src="https://img.shields.io/npm/v/koishi-plugin-error-encountered" alt="npm">
 </a>
-<a href="https://www.npmjs.com/package/koishi-plugin-template">
-  <img src="https://img.shields.io/npm/dm/koishi-plugin-template" alt="npm download">
+<a href="https://www.npmjs.com/package/koishi-plugin-error-encountered">
+  <img src="https://img.shields.io/npm/dm/koishi-plugin-error-encountered" alt="npm download">
 </a>
-<a href="https://wakatime.com/badge/user/b61b0f9a-f40b-4c82-bc51-0a75c67bfccf/project/c871162c-2c6d-4a99-8de5-c8c8d7d3a0f1">
-  <img src="https://wakatime.com/badge/user/b61b0f9a-f40b-4c82-bc51-0a75c67bfccf/project/c871162c-2c6d-4a99-8de5-c8c8d7d3a0f1.svg" alt="wakatime">
+<a href="https://wakatime.com/badge/user/b61b0f9a-f40b-4c82-bc51-0a75c67bfccf/project/609f6d5c-a320-4cf9-afc5-553132a36983">
+  <img src="https://wakatime.com/badge/user/b61b0f9a-f40b-4c82-bc51-0a75c67bfccf/project/609f6d5c-a320-4cf9-afc5-553132a36983.svg" alt="wakatime">
 </a>
 
 </div>
