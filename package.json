@@ -1,0 +1,35 @@
+{
+  "name": "koishi-plugin-error-encountered",
+  "description": "Use this to troll your friend",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "author": "student_2333 <lgc2333@126.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/lgc-KoiDev/koishi-plugin-error-encountered",
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "koishi": {
+    "description": {
+      "zh": "当指定用户执行任何指令的时候回复发生未知错误"
+    },
+    "service": {
+      "required": [],
+      "optional": [],
+      "implements": []
+    },
+    "locales": [
+      "zh"
+    ]
+  },
+  "peerDependencies": {
+    "koishi": "^4.18.0"
+  }
+}
