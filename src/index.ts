@@ -14,7 +14,7 @@ export const Config: Schema<Config> = Schema.object({
 
 export function apply(ctx: Context, config: Config) {
   ctx.before('command/execute', ({ session }) => {
-    if (!session) return
+    if (!session || !session.userId) return
 
     const userList = session.resolve(config.userList)
     const { userId, platform } = session
